@@ -1,0 +1,7 @@
+python-dotenv
+python-Levenshtein
+python-telegram-bot
+pytz
+PyYAML
+requests
+thefuzz[speedup]
